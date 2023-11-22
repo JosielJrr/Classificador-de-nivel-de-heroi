@@ -26,5 +26,5 @@ Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de 
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
-## Observação:
-Na lógica que desenvolvi para solucionar o desafio não houve necessidade de utilizar laços de repetição.  
+## Observação do aluno:
+Na lógica que desenvolvi para solucionar o desafio não houve necessidade de utilizar laços de repetição. Inclusive, gostaria de saber qual a linha de raciocínio utilizada para que houvesse essa estrutura de controle no código, fiquei curioso e um pouco confuso. Mas adorei a proposta para exercitar a lógica, bem criativa. ⭐
